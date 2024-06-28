@@ -19,3 +19,13 @@ Consigli del giorno:
 4. torniamo a scrivere in italiano
 5. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento! 
+
+MAIL
+Inserisco nell'index un form con input text e un pulsante di invio per poter inserire la mail;
+Nello script creo un array con delle mail "valide" per poterle ciclare per il confronto;
+Creo un ciclo con un flag esterno per il controllo della mail;
+Stampo un messaggio nell'index per ritornare l'informazione all'utente.
+
+DADI
+Creo nello script un array da poter riempire ogni volta con due numeri randomici da 1 a 6 (il primo per l'utente ed il secondo per il PC);
+Confrontare i numeri all'interno dell'array e stampare a console il risultato.
